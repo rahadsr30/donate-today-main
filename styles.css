@@ -34,6 +34,7 @@ nav li:hover {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-bottom: 70px;
 }
 .btn-primary {
   height: 64px;
@@ -43,7 +44,7 @@ nav li:hover {
   border-radius: 5px;
   padding: 18px 35px;
   color: #fff;
-  background: #fd6e0a;
+  background: #ff5959;
 }
 /* Banner */
 .banner {
@@ -59,4 +60,76 @@ nav li:hover {
   font-weight: 400px;
   font-size: 20px;
   margin-bottom: 20px;
+}
+/* donate-today */
+.donate-today {
+  text-align: center;
+  color: #000;
+}
+.donate-titel {
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.donate-discription {
+  font-size: 18px;
+  font-weight: 400;
+  color: #a9a9a9;
+  margin-bottom: 50px;
+}
+.donate-container {
+  display: flex;
+  gap: 24px;
+  margin: 100px 150px 60px 150px;
+}
+.help {
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  padding: 30px;
+}
+.help-titel {
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 16px;
+}
+.help-discription {
+  font-size: 16px;
+  font-weight: 400;
+}
+/* box */
+.tk-box {
+  display: flex;
+  gap: 24px;
+  margin: 0px 500px 60px 500px;
+}
+.box {
+  width: 80px;
+  height: 75px;
+  border-radius: 5px;
+  border: 2px solid #000;
+  background: #fee;
+  padding: 15px;
+  text-align: center;
+  background: #fafafa;
+}
+.box-titel {
+  margin: 20px 0px 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.box:hover {
+  background-color: #ff5959;
+}
+.donate-box {
+  text-align: center;
+}
+.box-discription {
+  font-size: 18px;
+  font-weight: 400;
+  color: #a9a9a9;
+}
+.hr-style {
+  margin: 20px 500px 20px 500px;
 }
