@@ -133,3 +133,113 @@ nav li:hover {
 .hr-style {
   margin: 20px 500px 20px 500px;
 }
+/* donate-today */
+.donate-plan {
+  text-align: center;
+  margin-top: 30px;
+}
+.plan-titel {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.plan-discription {
+  font-size: 18px;
+  font-weight: 400;
+  color: #a9a9a9;
+}
+/* Donation-section */
+.section-donation {
+  display: flex;
+  gap: 35px;
+  margin: 0 280px;
+  margin-bottom: 70px;
+}
+.donation-titel {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.donation-discription {
+  font-size: 18px;
+  font-weight: 400px;
+  color: #a9a9a9;
+  margin-bottom: 20px;
+}
+.donation-img {
+  height: 280px;
+  width: 420px;
+}
+/* donation-section-2 */
+.donation-section {
+  display: flex;
+  gap: 40px;
+  margin: 0 280px;
+  margin-bottom: 70px;
+}
+.donation-img-2 {
+  height: 280px;
+  width: 420px;
+}
+.donation-discription-2 {
+  font-size: 18px;
+  font-weight: 400px;
+  color: #a9a9a9;
+  margin-bottom: 20px;
+}
+.donation-titel-2 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+/* Get My Updates */
+.get-my-updates {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.Updates-titel {
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.Updates-discription {
+  font-size: 18px;
+  font-weight: 400px;
+  color: #a9a9a9;
+  margin-bottom: 50px;
+}
+/* submit-section */
+.box-2 {
+  width: 500px;
+  height: 100px;
+  padding: 40px;
+  border: 1px solid #fee;
+  background-color: #fee;
+  margin: 0 500px;
+  box-sizing: border-box;
+  text-align: center;
+  margin-bottom: 80px;
+}
+.email {
+  background-color: #a9a9a9;
+  border: none;
+  height: 30px;
+  width: 250px;
+}
+.btn-color {
+  height: 32px;
+  width: 100px;
+  border: none;
+  background-color: #ff5959;
+}
+/* footer */
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.footer-titel {
+  font-size: 30px;
+  color: #ff5959;
+}
